@@ -1,4 +1,0 @@
-# dead-channel-jp.github.io
-
-Main page for [dead-channel.jp](https://dead-channel.jp). This repository is automatically generated from [dead-channel-jp](https://github.com/dead-channel-jp/dead-channel-jp), so do not commit directly.
-
